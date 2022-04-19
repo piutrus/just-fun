@@ -1,0 +1,148 @@
+Być (to be) conjugation
+Present tense
+ja
+jestem
+ty
+jesteś
+on/ona/ono
+jest
+my
+jesteśmy
+wy
+jesteście
+oni
+są
+Imperfective future tense
+ja
+będę być
+ty
+będziesz być
+on/ona/ono
+będzie być
+my
+będziemy być
+wy
+będziecie być
+oni
+będą być
+Imperative
+ja
+niech będę
+ty
+bądź
+on/ona/ono
+niech będzie
+my
+bądźmy
+wy
+bądźcie
+oni
+niech będą
+Past feminine tense
+ja
+byłam
+ty
+byłaś
+ona
+była
+my
+byłyśmy
+wy
+byłyście
+oni
+były
+Future feminine tense
+ja
+będę
+ty
+będziesz
+ona
+będzie
+my
+będziemy
+wy
+będziecie
+oni
+będą
+Conditional feminine tense
+ja
+byłabym
+ty
+byłabyś
+ona
+byłaby
+my
+byłybyśmy
+wy
+byłybyście
+oni
+byłyby
+Conditional perfective feminine tense
+ja
+byłabym była
+ty
+byłabyś była
+ona
+byłaby była
+my
+byłybyśmy były
+wy
+byłybyście były
+oni
+byłyby były
+Past masculine tense
+ja
+byłem
+ty
+byłeś
+on
+był
+my
+byliśmy
+wy
+byliście
+oni
+byli
+Future masculine tense
+ja
+będę
+ty
+będziesz
+on
+będzie
+my
+będziemy
+wy
+będziecie
+oni
+będą
+
+Conditional masculine tense
+ja
+byłbym
+ty
+byłbyś
+on
+byłby
+my
+bylibyśmy
+wy
+bylibyście
+oni
+byliby
+Conditional perfective masculine tense
+ja
+byłbym był
+ty
+byłbyś był
+on
+byłby był
+my
+bylibyśmy byli
+wy
+bylibyście byli
+oni
+byliby byli
+Impersonal
+byto by
+byto by
